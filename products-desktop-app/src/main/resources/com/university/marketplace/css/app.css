@@ -1,0 +1,15 @@
+.root {
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+}
+.panel {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #dee2e6;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+}
+.table-view {
+    -fx-font-size: 13px;
+}
+.text-danger {
+    -fx-text-fill: #b02a37;
+}
